@@ -1,0 +1,28 @@
+Project title page: Data Science Capstone  Project; github link
+
+
+Outline Page: Executive Summary (3) Introduction (4) Methodology (6) Results (16) Conclusion (46) Appendix (47)
+
+Executive Summary: 
+    Collected data from public SpaceX API and SpaceX Wikipedia page. Created labels  column ‘class’ which classifies successful landings.
+    Explored data using SQL,  visualization, folium maps, and dashboards. Gathered relevant columns to be used as  features.
+    Changed all categorical variables to binary using one hot encoding.  
+    Standardized data and used GridSearchCV to find best parameters for machine learning  models. Visualize accuracy score of all models.
+
+  Four machine learning models were produced: 
+  Logistic Regression, Support Vector  Machine, Decision Tree Classifier, and K Nearest Neighbors.
+  All produced similar results  with accuracy rate of about 83.33%. All models over predicted successful landings.
+  More  data is needed for better model determination and accuracy.
+
+Introduction: 
+    Background:
+    Commercial Space Age is Here
+    Space X has best pricing ($62 million vs. $165 million USD)
+    Largely due to ability to recover part of rocket (Stage 1)
+    Space Y wants to compete with Space X
+
+
+    Problem:
+    Space Y tasks us to train a machine learning model to  predict successful Stage 1 recovery
+
+Methodology: 
