@@ -26,3 +26,4 @@ Introduction:
     Space Y tasks us to train a machine learning model to  predict successful Stage 1 recovery
 
 Methodology: 
+>git remote add origin git@github.com/[username]/[project_name].git
