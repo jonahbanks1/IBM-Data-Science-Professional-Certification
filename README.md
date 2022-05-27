@@ -20,7 +20,7 @@ I am fully aware of the career opportunities in Data Science, armed with the pre
 familair with the leading tools and compliant with the accepted standards for investigation and reporting in Data Science.
 
 Highlighted Skills: 
-- Accessing Databases. 
+- SQL Databases. 
 - Data analysis with Python.
 - Data analysis with SQL.
 - Statistical visualization. 
